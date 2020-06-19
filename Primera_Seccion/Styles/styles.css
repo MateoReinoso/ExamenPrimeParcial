@@ -20,12 +20,24 @@ header{
 }
 h1{
     color: black;
+    text-align: center;
+    text-size-adjust: unset;
+    font-size: 5em;
+}
+h2{
+    text-align: center;
+    color: navy;
 }
 .navegacion{
 	width: 1000px;
 	margin: 30px auto;
     background: rgb(192, 192, 192);
     border-radius: 120%;
+}
+
+img{
+    display: block;
+    margin: auto;
 }
 
 .navegacion ul{
